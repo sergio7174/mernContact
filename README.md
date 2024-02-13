@@ -79,14 +79,8 @@ $ npm start (to start the server) or nodemon index
 
 ##  Key Features:
 
-- User registration and login
-- Authentication using JWT Tokens
-- Add, edit, delete Products
- - Leave a Reviews
-- Delete Reviews
-- Password Update
+- Add, edit, delete Contacs
 - Search Live
-- 404 Page and many more
 - Responsive Design
 <br/>
 
@@ -100,7 +94,7 @@ This project was created using the following technologies.
 - [React Hooks  ](https://reactjs.org/docs/hooks-intro.html) - For managing and centralizing application state
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom) - To handle routing
 - [axios](https://www.npmjs.com/package/axios) - For making Api calls
-- [React-bootstrap](https://mui.com/) - For User Interface
+- [Style Components] - For User Interface
 - [React Redux](https://react-redux.js.org/) - manage application state efficiently and provide a more structured mechanism for managing data
 - [React Toastify](https://www.npmjs.com/package/react-toastify) - To display interactive and responsive notifications (toasts) in web applications
 
@@ -126,6 +120,6 @@ This project was created using the following technologies.
 - Portfolio: 
 - Github: 
 - Sponsor: 
-- Linkedin:
+- Linkedin:[https://www.linkedin.com/in/sergio-moncada-72589883/]
 - Email: [sergiogmoncada@yahoo.com](mailto:sergiogmoncada@yahoo.com)
 
