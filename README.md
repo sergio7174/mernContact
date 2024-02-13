@@ -43,7 +43,7 @@ In the second terminal
 
 NODE_ENV: 'development'
 PORT: 3000
-MONGO_URI: 'mongodb://localhost:27017/contact01'(YOUR MONGO DATABASE)
+MONGO_URI: 'mongodb://0.0.0.0:27017/contact01'(YOUR MONGO DATABASE)
 JWT_SECRET: 'Sergio'
 STRIPE_SECRET_KEY:'Moncada'
 ```
