@@ -29,7 +29,7 @@ In the first terminal
 ```
 $ cd client
 $ npm install (to install client-side dependencies)
-$ npm run  start (to start the client)
+$ npm run  start (to start the client) or npm start
 ```
 
 In the second terminal
@@ -52,7 +52,7 @@ STRIPE_SECRET_KEY:'Moncada'
 # --- Terminal ---
 
 $ npm install (to install server-side dependencies)
-$ npm start (to start the server)
+$ npm start (to start the server) or nodemon index
 ```
 ![Static Badge](https://img.shields.io/badge/build-3.15%20mb%20-brightgreen?style=for-the-badge&label=GitHub%20repo%20size&color=brown)
 ![Status project](https://img.shields.io/badge/STATUS-Finished-GREEN?style=for-the-badge)
