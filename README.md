@@ -1,6 +1,6 @@
 <h1 align ="center" > 🏆 MernContact  </h1>
-<h5  align ="center"> 
-Fullstack open source Contact application (Add/Edit/Erase My Contacts)made with MongoDB, Express, React & Nodejs (MERN) </h5>
+<h3  align ="center"> 
+Fullstack open source Contact application (Add/Edit/Erase My Contacts)made with MongoDB, Express, React & Nodejs (MERN) </h3>
 <br>
 <br>
 
@@ -67,13 +67,13 @@ $ npm start (to start the server)
 ![Static Badge](https://img.shields.io/badge/Express-navy?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/multer-teal?style=for-the-badge)
 
-<br>
+
 ##  Screenshots:
 <br>
-<img src="./PROJECTIMAGES/IMAGE01.jpg" alt="project screenshot01" />
-<img src="./PROJECTIMAGES/IMAGE02.jpg" alt="project screenshot02" />
-<img src="./PROJECTIMAGES/IMAGE03.jpg" alt="project screenshot03" />
-<img src="./PROJECTIMAGES/IMAGE04.jpg" alt="project screenshot04" />
+<img src="./PROJECTIMAGES/image01.jpg" alt="project screenshot01" />
+<img src="./PROJECTIMAGES/image02.jpg" alt="project screenshot02" />
+<img src="./PROJECTIMAGES/image03.jpg" alt="project screenshot03" />
+<img src="./PROJECTIMAGES/image04.jpg" alt="project screenshot04" />
 <br>
 
 ##  Key Features:
