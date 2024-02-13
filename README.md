@@ -60,10 +60,8 @@ $ npm start (to start the server) or nodemon index
 ## ✔️ Tecnologias Utilizadas:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Static Badge](https://img.shields.io/badge/Redux%20Toolkit-yellow?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/axios-black?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Style%20Components-lightblue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/redux%20persist-aqua?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/mongoose-purple?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Express-navy?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/multer-teal?style=for-the-badge)
