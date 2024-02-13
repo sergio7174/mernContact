@@ -95,7 +95,6 @@ This project was created using the following technologies.
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom) - To handle routing
 - [axios](https://www.npmjs.com/package/axios) - For making Api calls
 - [Style Components] - For User Interface
-- [React Redux](https://react-redux.js.org/) - manage application state efficiently and provide a more structured mechanism for managing data
 - [React Toastify](https://www.npmjs.com/package/react-toastify) - To display interactive and responsive notifications (toasts) in web applications
 
 ####  Backend 
@@ -104,7 +103,6 @@ This project was created using the following technologies.
 - [Express js](https://www.npmjs.com/package/express) -The server for handling and routing HTTP requests
 - [Mongoose](https://mongoosejs.com/) - For modeling and mapping MongoDB data to JavaScript
 - [axios](https://www.npmjs.com/package/axios) - For making Api calls
-- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) - For authentication
 - [cookie-parser](https://www.npmjs.com/package/cookie-parser) - Middleware module used in Node.js web applications to manage cookies
 - [cors](https://www.npmjs.com/package/cors) - Provides a Connect/Express middleware
 - [Dotenv](https://www.npmjs.com/package/dotenv) - Zero Dependency module that loads environment variables
