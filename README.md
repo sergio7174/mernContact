@@ -1,6 +1,7 @@
 <h1 align ="center" > 🏆 MernContact  </h1>
 <h3  align ="center"> 
-Fullstack open source Contact application (Add/Edit/Erase My Contacts)made with MongoDB, Express, React & Nodejs (MERN) </h3>
+Fullstack open source Contact application (Add/Edit/Erase My Contacts)made with MongoDB,</h3> 
+<h3 align ="center">Express, React & Nodejs (MERN) </h3>
 <br>
 <br>
 
