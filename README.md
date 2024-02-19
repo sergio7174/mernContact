@@ -80,7 +80,7 @@ $ npm start (to start the server) or nodemon index
 ##  Key Features:
 
 - Add, edit, delete Contacs
-- Search Live
+- Live Search 
 - Responsive Design
 <br/>
 
